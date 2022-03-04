@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iris246
-- 👀 I’m interested in ...Linux and ethical hacking 
+- 👀 I’m interested in ...Linux, Python, and ethical hacking 
 - 🌱 I’m currently learning ...Security+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
